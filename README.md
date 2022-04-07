@@ -17,7 +17,7 @@ This project aims to find the best hyperparameters that can be used in the learn
 	- Logging and Reporting.
 	- Repeat the Last Three Steps until Convergence or Iteration Completion.
 
-The fitness function evaluation utilizes the tranfer learning CNN model. It runs the learning, testing, and validation of the model using the specified dataset. It reports the required performance metrics and returns the fitness function score.
+The fitness function evaluation utilizes the transfer learning CNN model. It runs the learning, testing, and validation of the model using the specified dataset. It reports the required performance metrics and returns the fitness function score.
 
 ## Requirements
 - Python - Link: https://www.python.org/
