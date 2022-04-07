@@ -28,6 +28,7 @@ The fitness function evaluation utilizes the transfer learning CNN model. It run
 	- OpenCV - Link: https://opencv.org/
 	- Scikit Learn - Link: https://scikit-learn.org/
 	- Matplotlib - Link: https://matplotlib.org/
+
 Hint: The packages can be found installed by default on Google Colab.
 
 ## Notebook Illustration Video (in Arabic)
