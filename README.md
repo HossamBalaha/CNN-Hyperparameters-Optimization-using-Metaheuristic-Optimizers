@@ -29,7 +29,7 @@ The fitness function evaluation utilizes the tranfer learning CNN model. It runs
 Hint: The packages can be found installed by default on Google Colab.
 
 ## Notebook Illustration Video (in Arabic)
-YouTube Link: 
+YouTube Link: https://youtu.be/OdQlaQYMUfw
 
 ## Project Repo. on GitHub
 **Link**: https://github.com/HossamBalaha/CNN-Hyperparameters-Optimization-using-Metaheuristic-Optimizers
